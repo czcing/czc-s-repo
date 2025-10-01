@@ -1,4 +1,4 @@
-int8-calibration
+int8-calibration   modify
 ===
 这里主要介绍了如何用C++实现int8的calibrator。主要看
 - src/cpp/trt_calibrator.cpp
